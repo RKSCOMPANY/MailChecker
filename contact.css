@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+    font-family:'Segoe UI', Tahoma ;
+    margin: 30px;
+}
+.contact-info {
+    padding:.5rem 10px!important;
+	margin-bottom:2%;
+}
+.contact-info p{
+    font-size: 1.5rem;
+}
+.contact-info ul li {
+    font-size: 1.4rem;
+}
+p{
+    font-size: 1.5rem;
+}
+img{
+    width:40%!important;
+}
